@@ -88,14 +88,13 @@ for i in range(0,9):
 
 ### Adaptive Thresholding
 
-![7](https://user-images.githubusercontent.com/75235759/234523402-2ef816b2-f3c6-4c9b-829c-c876363fc8de.png)
-
 ![8](https://user-images.githubusercontent.com/75235759/234523447-a99abff2-0661-4547-ae02-13386346032b.png)
 
+![9](https://user-images.githubusercontent.com/75235759/234523560-393b3d27-35f7-4a24-b280-0c6b05a5c9bf.png)
 
 ### Optimum Global Thesholding using Otsu's Method
+![7](https://user-images.githubusercontent.com/75235759/234523402-2ef816b2-f3c6-4c9b-829c-c876363fc8de.png)
 
-![9](https://user-images.githubusercontent.com/75235759/234523560-393b3d27-35f7-4a24-b280-0c6b05a5c9bf.png)
 
 
 ## RESULT:
