@@ -71,22 +71,31 @@ for i in range(0,9):
 ## OUTPUT:
 
 ### Original Image and Grayscale Image
-![Screenshot (76)](https://user-images.githubusercontent.com/75235759/170044786-3ca2be58-be43-4541-81f9-7d288b50bd7f.png)
+![1](https://user-images.githubusercontent.com/75235759/234522671-e1ed49d5-a6e6-4ac8-869e-b3f38c9bba3f.png)
+
 
 
 ### Global Thresholding
-![Screenshot (77)](https://user-images.githubusercontent.com/75235759/170044938-a6f18ced-3f17-4443-9732-6398948e34c5.png)
-![Screenshot (80)](https://user-images.githubusercontent.com/75235759/170044951-caac2ddc-7a36-469f-8301-ef77837bde35.png)
-![Screenshot (78)](https://user-images.githubusercontent.com/75235759/170044962-c728215c-14ea-44aa-aa89-b1ecb710e66a.png)
-![Screenshot (81)](https://user-images.githubusercontent.com/75235759/170044975-0b0bd526-493f-4b6e-b369-c0d41701bb70.png)
-![Screenshot (79)](https://user-images.githubusercontent.com/75235759/170045004-1cd7fb7a-ca17-4071-aee8-080b26b6cfd2.png)
+![2](https://user-images.githubusercontent.com/75235759/234522791-882c3683-8279-47a2-818a-e6e8617834aa.png)
+
+![3](https://user-images.githubusercontent.com/75235759/234522885-39ae4df4-4e04-46b7-bcc7-0ebbafa995e3.png)
+
+![4](https://user-images.githubusercontent.com/75235759/234522951-3bedd3c9-9092-4f0c-96ef-1f8358320bda.png)
+
+![5](https://user-images.githubusercontent.com/75235759/234523068-d9f7f406-ba41-4df2-a42f-d3b406d09037.png)
+
+![6](https://user-images.githubusercontent.com/75235759/234523255-bb682ee2-391e-499b-879a-084ab2d5cee2.png)
 
 ### Adaptive Thresholding
-![Screenshot (83)](https://user-images.githubusercontent.com/75235759/170045166-02f87580-5af4-43da-8e77-062ed8dce6bf.png)
-![Screenshot (82)](https://user-images.githubusercontent.com/75235759/170045171-f60bd8b5-eeb0-45fe-ad38-58671de0ffe0.png)
+
+![7](https://user-images.githubusercontent.com/75235759/234523402-2ef816b2-f3c6-4c9b-829c-c876363fc8de.png)
+
+![8](https://user-images.githubusercontent.com/75235759/234523447-a99abff2-0661-4547-ae02-13386346032b.png)
+
 
 ### Optimum Global Thesholding using Otsu's Method
-![Screenshot (84)](https://user-images.githubusercontent.com/75235759/170045219-c48d14e5-84d9-4426-b993-fa329abcc7cf.png)
+
+![9](https://user-images.githubusercontent.com/75235759/234523560-393b3d27-35f7-4a24-b280-0c6b05a5c9bf.png)
 
 
 ## RESULT:
